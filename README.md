@@ -108,8 +108,8 @@ Confusion Matrix Generated
 
 ### Clone Repository
 
-```bash
-git clone https://github.com/yourusername/Brain-Tumor-CNN.git
+```bash[
+git clone https://github.com/Naveen-ram01/Brain-Tumor-MRI-Classification-CNN.git]
 ```
 
 ### Install Dependencies
